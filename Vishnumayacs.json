@@ -1,0 +1,43 @@
+<html>
+
+<head lang="en">
+
+    <meta charset="UTF-8">
+
+    <script language="Javascript">
+
+<body>
+
+    <form align="center"onsubmit=""action="#">
+
+<h3>Checkboxes</h3>
+
+    <p>What would you like for lunch? </p>
+
+    <input type="checkbox" name="fruit" value="pineapple" id="f1">Apple
+
+    input type="checkbox" name="fruit" value="Apple" id="f2">Orange
+
+    <h3>Radio Buttons</h3>
+
+    <p>What is your gender? </p>
+
+    <input type="radio" name="gender" value="Female" id="gen">Male
+
+    <input type="radio" name="gender" value="male error" id="gen1">Female
+
+    <p><input type="submit" value="Sumbit" onclick="Showinput();"</p>
+
+    </form>
+
+<h3 align="center">Result:</h3>
+
+<table cellpadding="0" width="50%" bgcolor="FFDDDD" align="center" cellspacing="0" border="1">
+
+<tr><td width="40%">What would you like for lunch? </td> <td width="60%" id="lunch"</td></tr>
+
+<tr><td width="40%">Gender:</td><td width="60%" id="sex"</td></tr>
+
+</table>
+
+</html>
