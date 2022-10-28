@@ -1,0 +1,13 @@
+html> <head><title> link example</title></head>
+<body bgcolor="olive">
+<font color=" purple"><center><h1>SIAS COLLEGE</h1>
+<i> safi institute of advanced study(SIAS) is a center for research a higher education founded in auguest 29,2005</i>
+</center><br><br>
+<u	> <h3> Quick links</h3></u>
+</font>
+<a href=" pgm13courses.html" target="top"> courses</a>
+<br>	<a href="files /application form.pdf " target="top">application form</a><br> 
+<a href="https://uoc.ac.in/"  target=" top"	> calicut university     </a><br>
+<a href="mailto :  lbspgdiQlbsmde.ac.in" target=" top"> email</a>
+</body>
+</html>
